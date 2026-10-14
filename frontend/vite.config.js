@@ -7,5 +7,5 @@ plugins: [
 react(),
 tailwindcss(),
 ],
-base: '/product%20hub/',
+base: base: '/producthub/',
 })
